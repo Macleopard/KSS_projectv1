@@ -4,10 +4,6 @@ using System.IO;
 
 using System.Windows.Forms;
 using Microsoft.Office.Interop.Word;
-using PdfSharp.Pdf;
-using PdfSharp.Pdf.IO;
-using Xceed.Words.NET;
-using Xceed.Workbooks.NET;
 using Application = Microsoft.Office.Interop.Word.Application;
 using Excel = Microsoft.Office.Interop.Excel;
 
